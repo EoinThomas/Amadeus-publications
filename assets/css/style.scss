@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+td, th {
+  width: 25%; /* Adjust based on your number of columns */
+  word-wrap: break-word;
+}
