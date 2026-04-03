@@ -16,10 +16,10 @@ The group collaborates with internationally recognized institutions including MI
 
 | Title | Authors | Venue | Link |
 |:------|:--------|:------|:-----|
-| Writing Style Matters: An Examination of Bias and Fairness in Information Retrieval Systems | Cao, H. | WSDM | [ACM DL](https://dl.acm.org/doi/10.1145/3701551.3703514) |
+| [Writing Style Matters: An Examination of Bias and Fairness in Information Retrieval Systems](publications/writing-style-matters.html) | Cao, H. | WSDM | [ACM DL](https://dl.acm.org/doi/10.1145/3701551.3703514) |
 | Multi-Agent Automatic API Swagger Extension | de Antonio, J.; Tsolaku, A.; Cao, H. | API the Docs | [Conference](https://apithedocs.org/) |
 | Modeling Airline Disruptions in Order to Predict Optimization Complexity and Solution Shape | Delahaye, T.; Cao, H. | AGIFORS Airline Ops | [AGIFORS](https://www.agifors.org/ops-2025) |
-| Unconditionally Calibrated Priors for Beta Mixture Density Networks | Lhéritier, A.; Filippone, M. | AISTATS | [PMLR](https://proceedings.mlr.press/v258/lheritier25a.html) |
+| [Unconditionally Calibrated Priors for Beta Mixture Density Networks](publications/unconditionally-calibrated-priors.html) | Lhéritier, A.; Filippone, M. | AISTATS | [PMLR](https://proceedings.mlr.press/v258/lheritier25a.html) |
 | Variational Inference for Quantum HyperNetworks | Nepote, L.; Lhéritier, A.; Bondoux, N.; Kountouris, M.; Filippone, M. | IJCNN Workshop (QCNN) | [arXiv](https://arxiv.org/abs/2506.05888) |
 | Preserving the World Heritage: Post-Earthquake Monitoring Based on Structural Break Testing with Deep Temporal Convolutional Features | Dente, F.; Combey, A.; Lhéritier, A.; Acuna-Agost, R.; Mercerat, E.D. | ECML-PKDD | [Preprint](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_650.pdf) |
 | GenAI for API | de Antonio, J.; Cao, H.; Tsolaku, A. | Platform Summit | [Nordic APIs](https://nordicapis.com/events/platform-summit-2025/) |
@@ -69,7 +69,7 @@ The group collaborates with internationally recognized institutions including MI
 | Title | Authors | Year | Venue | Link |
 |:------|:--------|:----:|:------|:-----|
 | Price Elasticity Estimation for Deep Learning-Based Choice Models | Acuna-Agost, R.; Thomas, E.; Lhéritier, A. | 2021 | J. Revenue and Pricing Management | [Springer](https://link.springer.com/article/10.1057/s41272-021-00308-z) |
-| PCMC-Net: Feature-Based Pairwise Choice Markov Chains | Lhéritier, A. | 2020 | ICLR | [OpenReview](https://openreview.net/forum?id=BJgWE1SFwS) |
+| [PCMC-Net: Feature-Based Pairwise Choice Markov Chains](publications/pcmc-net.html) | Lhéritier, A. | 2020 | ICLR | [OpenReview](https://openreview.net/forum?id=BJgWE1SFwS) |
 | Making Search Engines Faster by Lowering the Cost of Querying Business Rules Through FPGAs | Casalino, M.; Hock-Koon, A.; Maschi, F.; Owaida, M.; Alonso, G. | 2020 | SIGMOD | [ETH Zurich](https://www.research-collection.ethz.ch/handle/20.500.11850/419479) |
 | Low-Complexity Nonparametric Bayesian Online Prediction with Universal Guarantees | Lhéritier, A.; Cazals, F. | 2019 | NeurIPS | [Proceedings](https://proceedings.neurips.cc/paper/2019/hash/122e27d57ae8ecb37f3f1da67abb33cb-Abstract.html) |
 | A Comparative Evaluation of Outlier Detection Algorithms: Experiments and Analyses | Domingues, R.; Filippone, M.; Michiardi, P.; Zouaoui, J. | 2018 | Pattern Recognition | [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0031320317303916) |
