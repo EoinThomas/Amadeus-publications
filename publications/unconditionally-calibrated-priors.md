@@ -33,10 +33,12 @@ We introduce a novel approach for specifying priors in Beta mixture density netw
 @inproceedings{lheritier2025unconditionally,
   title={Unconditionally Calibrated Priors for Beta Mixture Density Networks},
   author={Lh\'eritier, Alix and Filippone, Maurizio},
-  booktitle={Proceedings of The 28th International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  booktitle={Proceedings of The 28th International Conference on Artificial Intelligence and Statistics},
+  pages={4104--4112},
   year={2025},
+  volume={258},
   series={Proceedings of Machine Learning Research},
-  volume={258}
+  publisher={PMLR}
 }
 ```
 {% endraw %}

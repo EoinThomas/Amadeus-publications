@@ -33,8 +33,12 @@ year: 2022
 @inproceedings{lheritier2022cramer,
   title={A Cram\'er Distance Perspective on Quantile Regression Based Distributional Reinforcement Learning},
   author={Lh\'eritier, Alix and Bondoux, Nicolas},
-  booktitle={International Conference on Artificial Intelligence and Statistics (AISTATS)},
-  year={2022}
+  booktitle={Proceedings of the 25th International Conference on Artificial Intelligence and Statistics},
+  pages={11380--11393},
+  year={2022},
+  volume={151},
+  series={Proceedings of Machine Learning Research},
+  publisher={PMLR}
 }
 ```
 {% endraw %}

@@ -34,8 +34,9 @@ This paper introduces PCMC-Net, a neural network architecture for modeling discr
 @inproceedings{lheritier2020pcmc,
   title={{PCMC-Net}: Feature-Based Pairwise Choice Markov Chains},
   author={Lh\'eritier, Alix},
-  booktitle={International Conference on Learning Representations (ICLR)},
-  year={2020}
+  booktitle={International Conference on Learning Representations},
+  year={2020},
+  url={https://openreview.net/forum?id=BJgWE1SFwS}
 }
 ```
 {% endraw %}

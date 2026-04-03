@@ -32,9 +32,12 @@ This research examines how writing style influences bias and fairness in informa
 ```bibtex
 @inproceedings{cao2025writing,
   title={Writing Style Matters: An Examination of Bias and Fairness in Information Retrieval Systems},
-  author={Cao, H.},
-  booktitle={Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM)},
-  year={2025}
+  author={Cao, Hongliu},
+  booktitle={Proceedings of the 18th ACM International Conference on Web Search and Data Mining},
+  year={2025},
+  publisher={ACM},
+  address={New York, NY, USA},
+  doi={10.1145/3701551.3703514}
 }
 ```
 {% endraw %}

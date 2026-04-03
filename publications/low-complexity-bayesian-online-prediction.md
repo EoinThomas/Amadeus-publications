@@ -32,10 +32,12 @@ year: 2019
 ```bibtex
 @inproceedings{lheritier2019low,
   title={Low-Complexity Nonparametric Bayesian Online Prediction with Universal Guarantees},
-  author={Lh\'eritier, Alix and Cazals, Frederic},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  author={Lh\'eritier, Alix and Cazals, Fr\'ed\'eric},
+  booktitle={Advances in Neural Information Processing Systems},
   volume={32},
-  year={2019}
+  pages={6868--6879},
+  year={2019},
+  editor={H. Wallach and H. Larochelle and A. Beygelzimer and F. d'Alch\'e-Buc and E. Fox and R. Garnett}
 }
 ```
 {% endraw %}

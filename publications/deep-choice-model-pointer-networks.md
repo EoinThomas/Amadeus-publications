@@ -35,7 +35,10 @@ year: 2017
   author={Mottini, Alejandro and Acuna-Agost, Rodrigo},
   booktitle={Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
   pages={1575--1583},
-  year={2017}
+  year={2017},
+  publisher={ACM},
+  address={New York, NY, USA},
+  doi={10.1145/3097983.3098005}
 }
 ```
 {% endraw %}
