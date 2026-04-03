@@ -29,6 +29,7 @@ This paper introduces PCMC-Net, a neural network architecture for modeling discr
 
 ## Citation
 
+{% raw %}
 ```bibtex
 @inproceedings{lheritier2020pcmc,
   title={{PCMC-Net}: Feature-Based Pairwise Choice Markov Chains},
@@ -37,6 +38,7 @@ This paper introduces PCMC-Net, a neural network architecture for modeling discr
   year={2020}
 }
 ```
+{% endraw %}
 
 ---
 

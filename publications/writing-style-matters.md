@@ -28,6 +28,7 @@ This research examines how writing style influences bias and fairness in informa
 
 ## Citation
 
+{% raw %}
 ```bibtex
 @inproceedings{cao2025writing,
   title={Writing Style Matters: An Examination of Bias and Fairness in Information Retrieval Systems},
@@ -36,6 +37,7 @@ This research examines how writing style influences bias and fairness in informa
   year={2025}
 }
 ```
+{% endraw %}
 
 ---
 

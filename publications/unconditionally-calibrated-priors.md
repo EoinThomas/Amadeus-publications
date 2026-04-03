@@ -28,6 +28,7 @@ We introduce a novel approach for specifying priors in Beta mixture density netw
 
 ## Citation
 
+{% raw %}
 ```bibtex
 @inproceedings{lheritier2025unconditionally,
   title={Unconditionally Calibrated Priors for Beta Mixture Density Networks},
@@ -38,6 +39,7 @@ We introduce a novel approach for specifying priors in Beta mixture density netw
   volume={258}
 }
 ```
+{% endraw %}
 
 ---
 

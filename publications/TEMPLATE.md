@@ -28,6 +28,7 @@ year: 2025
 
 ## Citation
 
+{% raw %}
 ```bibtex
 @inproceedings{authorYYYYkeyword,
   title={Full Publication Title Here},
@@ -37,6 +38,7 @@ year: 2025
   publisher={Publisher Name}
 }
 ```
+{% endraw %}
 
 ---
 
