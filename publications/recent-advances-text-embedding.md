@@ -17,7 +17,7 @@ year: 2024
 
 ## Abstract
 
-*[Abstract to be added - available at the arXiv link above]*
+This comprehensive survey reviews the latest text embedding techniques and evaluates them on the Massive Text Embedding Benchmark (MTEB). It covers recent developments in transformer-based embeddings, contrastive learning approaches, and other state-of-the-art methods. The review highlights the strengths of top-performing embedding models on various MTEB tasks (such as semantic similarity, clustering, retrieval, etc.), discusses their relative performance, and outlines open challenges (like dealing with negation, domain shifts, and efficiency). It serves as a guide for practitioners to understand which embedding methods work best under different conditions and why.
 
 ## Key Contributions
 
@@ -30,11 +30,11 @@ year: 2024
 
 {% raw %}
 ```bibtex
-@article{cao2024recent,
-  title={Recent Advances in Text Embedding: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark},
-  author={Cao, Hongliu},
-  journal={arXiv preprint arXiv:2406.01607},
-  year={2024}
+@article{Cao2024MTEB,
+  author    = {Hongliu Cao},
+  title     = {Recent Advances in Text Embedding: A Comprehensive Review of Top-Performing Methods on the MTEB Benchmark},
+  journal   = {arXiv preprint arXiv:XXXX.YYYY},
+  year      = {2024}
 }
 ```
 {% endraw %}

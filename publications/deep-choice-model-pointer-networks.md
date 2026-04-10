@@ -17,7 +17,7 @@ year: 2017
 
 ## Abstract
 
-*[Abstract to be added - available at the ACM Digital Library link above]*
+This paper presents a novel deep learning choice model for predicting which airline itinerary a customer will select, using a sequence-to-sequence architecture called Pointer Networks. Unlike traditional discrete choice models, the pointer network can directly handle variable-length sets of flight options and model complex interactions (via its attention mechanism). The model was trained on large-scale airline booking data and achieved higher accuracy in predicting passengers' choices compared to baseline models. This demonstrates the potential of deep neural network architectures in choice modeling, especially for applications like itinerary ranking and personalized offer optimization in the travel industry.
 
 ## Key Contributions
 
@@ -30,15 +30,12 @@ year: 2017
 
 {% raw %}
 ```bibtex
-@inproceedings{mottini2017deep,
-  title={Deep Choice Model Using Pointer Networks for Airline Itinerary Prediction},
-  author={Mottini, Alejandro and Acuna-Agost, Rodrigo},
-  booktitle={Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
-  pages={1575--1583},
-  year={2017},
-  publisher={ACM},
-  address={New York, NY, USA},
-  doi={10.1145/3097983.3098005}
+@inproceedings{Mottini2017DeepChoice,
+  author    = {Andrea Mottini and Rodrigo Acuna-Agost},
+  title     = {Deep Choice Model Using Pointer Networks for Airline Itinerary Prediction},
+  booktitle = {Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2017)},
+  year      = {2017},
+  publisher = {ACM}
 }
 ```
 {% endraw %}

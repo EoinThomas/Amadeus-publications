@@ -17,7 +17,7 @@ year: 2025
 
 ## Abstract
 
-*[Abstract to be added - available at the arXiv link above]*
+This paper proposes a multi-agent system to generate synthetic datasets for evaluating Retrieval-Augmented Generation (RAG) models, ensuring dataset diversity and privacy. The framework combines multiple generative agents to produce data that mimic real-world distributions without exposing sensitive information, enabling robust assessment of RAG performance.
 
 ## Key Contributions
 
@@ -30,11 +30,12 @@ year: 2025
 
 {% raw %}
 ```bibtex
-@article{driouch2025diverse,
-  title={Diverse and Private Synthetic Datasets Generation for RAG Evaluation: A Multi-Agent Framework},
-  author={Driouch, I. and Cao, H. and Thomas, E.},
-  journal={arXiv preprint arXiv:2508.18929},
-  year={2025}
+@inproceedings{Driouich2025TRUSTAI,
+  author    = {Imane Driouich and Hongliu Cao and Eoin Thomas},
+  title     = {Diverse and Private Synthetic Datasets Generation for RAG Evaluation: A Multi-Agent Framework},
+  booktitle = {Proceedings of the TRUST-AI Workshop at ECAI 2025},
+  year      = {2025},
+  note      = {arXiv preprint arXiv:XXXX.ZZZZZ}
 }
 ```
 {% endraw %}

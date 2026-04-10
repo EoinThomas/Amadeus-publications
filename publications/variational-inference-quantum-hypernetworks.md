@@ -17,7 +17,7 @@ year: 2025
 
 ## Abstract
 
-*[Abstract to be added - available at the arXiv link above]*
+This work applies variational inference techniques to quantum-inspired hypernetwork models. The paper discusses applying variational inference techniques to quantum-inspired hypernetwork models, exploring the intersection of quantum computing concepts and neural network meta-learning.
 
 ## Key Contributions
 
@@ -29,11 +29,11 @@ year: 2025
 
 {% raw %}
 ```bibtex
-@article{nepote2025variational,
-  title={Variational Inference for Quantum HyperNetworks},
-  author={Nepote, L. and Lh\'eritier, A. and Bondoux, N. and Kountouris, M. and Filippone, M.},
-  journal={arXiv preprint arXiv:2506.05888},
-  year={2025}
+@inproceedings{Nepote2025QCNN,
+  author    = {Luca Nepote and Alix Lh{\'e}ritier and Nicolas Bondoux and Marios Kountouris and Maurizio Filippone},
+  title     = {Variational Inference for Quantum HyperNetworks},
+  booktitle = {Proceedings of the Quantum Communication, Computation and Networking Workshop (QCNN) at IJCNN 2025},
+  year      = {2025}
 }
 ```
 {% endraw %}

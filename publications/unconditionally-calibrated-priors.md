@@ -17,7 +17,7 @@ year: 2025
 
 ## Abstract
 
-We introduce a novel approach for specifying priors in Beta mixture density networks that ensures unconditional calibration. Our method addresses the challenge of maintaining probabilistic calibration across the entire support of predictions, regardless of input characteristics. By carefully constructing prior distributions over the mixture components, we guarantee that predicted probabilities accurately reflect true frequencies without requiring post-hoc calibration procedures. This work has significant implications for applications requiring reliable uncertainty quantification, such as risk assessment and decision-making systems.
+*[Abstract not available in provided sources.]*
 
 ## Key Contributions
 
@@ -30,15 +30,12 @@ We introduce a novel approach for specifying priors in Beta mixture density netw
 
 {% raw %}
 ```bibtex
-@inproceedings{lheritier2025unconditionally,
-  title={Unconditionally Calibrated Priors for Beta Mixture Density Networks},
-  author={Lh\'eritier, Alix and Filippone, Maurizio},
-  booktitle={Proceedings of The 28th International Conference on Artificial Intelligence and Statistics},
-  pages={4104--4112},
-  year={2025},
-  volume={258},
-  series={Proceedings of Machine Learning Research},
-  publisher={PMLR}
+@inproceedings{Lheritier2025AISTATS,
+  author    = {Alix Lh{\'e}ritier and Maurizio Filippone},
+  title     = {Unconditionally Calibrated Priors for Beta Mixture Density Networks},
+  booktitle = {Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS 2025)},
+  year      = {2025},
+  publisher = {PMLR}
 }
 ```
 {% endraw %}

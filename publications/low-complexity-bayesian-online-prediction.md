@@ -17,7 +17,7 @@ year: 2019
 
 ## Abstract
 
-*[Abstract to be added - available at the NeurIPS proceedings link above]*
+This paper proposes a nonparametric Bayesian method for online sequence prediction that is computationally efficient and comes with universal performance guarantees (meaning it performs nearly as well as the best possible predictor in the long run, without knowing the data-generating process in advance). Traditional Bayesian predictive models can be complex; this work introduces simplifications that maintain theoretical optimality. The method is essentially an online learning algorithm that updates beliefs over sequence patterns with low complexity per update. The approach yields strong theoretical bounds and performs competitively in experiments, demonstrating a practical balance of speed, simplicity, and predictive power.
 
 ## Key Contributions
 
@@ -30,14 +30,11 @@ year: 2019
 
 {% raw %}
 ```bibtex
-@inproceedings{lheritier2019low,
-  title={Low-Complexity Nonparametric Bayesian Online Prediction with Universal Guarantees},
-  author={Lh\'eritier, Alix and Cazals, Fr\'ed\'eric},
-  booktitle={Advances in Neural Information Processing Systems},
-  volume={32},
-  pages={6868--6879},
-  year={2019},
-  editor={H. Wallach and H. Larochelle and A. Beygelzimer and F. d'Alch\'e-Buc and E. Fox and R. Garnett}
+@inproceedings{Lheritier2019Online,
+  author    = {Alix Lh{\'e}ritier and Faustin Cazals},
+  title     = {Low-Complexity Nonparametric Bayesian Online Prediction with Universal Guarantees},
+  booktitle = {Advances in Neural Information Processing Systems 32 (NeurIPS 2019)},
+  year      = {2019}
 }
 ```
 {% endraw %}

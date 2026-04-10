@@ -17,7 +17,7 @@ year: 2020
 
 ## Abstract
 
-This paper introduces PCMC-Net, a neural network architecture for modeling discrete choice behavior using pairwise comparisons within a Markov chain framework. The model combines the representational power of deep learning with the interpretability and theoretical foundations of discrete choice theory. By formulating choice as a sequence of pairwise comparisons, PCMC-Net naturally handles choice sets of varying sizes and provides a flexible framework for incorporating complex feature interactions. The approach demonstrates strong performance on airline itinerary choice prediction and other ranking tasks, while maintaining computational efficiency through a scalable training procedure.
+PCMC-Net is a novel choice modeling framework that combines deep neural networks with the theory of Pairwise Choice Markov Chains (PCMC). The model uses learned feature representations to predict probabilities of choosing one option over another in a set, capturing complex substitution effects. PCMC-Net can handle high-dimensional feature data (e.g., images or text describing options) and still produce choice probabilities that are consistent with rational utility theory. Experiments on public choice datasets demonstrate that PCMC-Net achieves state-of-the-art prediction accuracy, while offering more interpretable structure than a standard neural network softmax approach.
 
 ## Key Contributions
 
@@ -31,12 +31,11 @@ This paper introduces PCMC-Net, a neural network architecture for modeling discr
 
 {% raw %}
 ```bibtex
-@inproceedings{lheritier2020pcmc,
-  title={{PCMC-Net}: Feature-Based Pairwise Choice Markov Chains},
-  author={Lh\'eritier, Alix},
-  booktitle={International Conference on Learning Representations},
-  year={2020},
-  url={https://openreview.net/forum?id=BJgWE1SFwS}
+@inproceedings{Lheritier2020PCMC,
+  author    = {Alix Lh{\'e}ritier},
+  title     = {PCMC-Net: Feature-Based Pairwise Choice Markov Chains},
+  booktitle = {Proceedings of the 8th International Conference on Learning Representations (ICLR 2020)},
+  year      = {2020}
 }
 ```
 {% endraw %}

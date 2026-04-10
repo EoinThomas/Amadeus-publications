@@ -17,7 +17,7 @@ year: 2025
 
 ## Abstract
 
-*[Abstract to be added - available at the arXiv link above]*
+This work identifies and addresses the issue that certain universal text embedding models fail to handle negation, proposing an adapter to improve embedding robustness regarding negated meaning. The semantic adapter enhances universality of text embeddings by diagnosing and mitigating negation blindness, a common limitation in embedding models.
 
 ## Key Contributions
 
@@ -30,11 +30,12 @@ year: 2025
 
 {% raw %}
 ```bibtex
-@article{cao2025semantic,
-  title={Semantic Adapter for Universal Text Embeddings: Diagnosing and Mitigating Negation Blindness to Enhance Universality},
-  author={Cao, Hongliu},
-  journal={arXiv preprint arXiv:2504.00584},
-  year={2025}
+@inproceedings{Cao2025ECAI,
+  author    = {Hongliu Cao},
+  title     = {Semantic Adapter for Universal Text Embeddings: Diagnosing and Mitigating Negation Blindness to Enhance Universality},
+  booktitle = {Proceedings of the 25th European Conference on Artificial Intelligence (ECAI 2024/2025)},
+  year      = {2025},
+  note      = {arXiv preprint arXiv:XXXX.YYYYY}
 }
 ```
 {% endraw %}

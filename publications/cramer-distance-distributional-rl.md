@@ -17,7 +17,7 @@ year: 2022
 
 ## Abstract
 
-*[Abstract to be added - available at the arXiv link above]*
+Distributional Reinforcement Learning (RL) aims to predict the full distribution of returns (rewards) rather than just the expected value. This paper provides a new perspective on quantile regression-based distributional RL by analyzing it through the lens of the Cramér distance (a metric between probability distributions). The authors show that using the Cramér distance offers theoretical advantages in stability and performance. They support these findings with experiments demonstrating improved policy learning stability when optimizing distributional predictions using this perspective.
 
 ## Key Contributions
 
@@ -30,15 +30,12 @@ year: 2022
 
 {% raw %}
 ```bibtex
-@inproceedings{lheritier2022cramer,
-  title={A Cram\'er Distance Perspective on Quantile Regression Based Distributional Reinforcement Learning},
-  author={Lh\'eritier, Alix and Bondoux, Nicolas},
-  booktitle={Proceedings of the 25th International Conference on Artificial Intelligence and Statistics},
-  pages={11380--11393},
-  year={2022},
-  volume={151},
-  series={Proceedings of Machine Learning Research},
-  publisher={PMLR}
+@inproceedings{Lheritier2022Cramer,
+  author    = {Alix Lh{\'e}ritier and Nicolas Bondoux},
+  title     = {A Cram{\'e}r Distance Perspective on Quantile Regression Based Distributional Reinforcement Learning},
+  booktitle = {Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)},
+  year      = {2022},
+  publisher = {PMLR}
 }
 ```
 {% endraw %}

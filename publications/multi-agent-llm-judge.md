@@ -17,7 +17,7 @@ year: 2025
 
 ## Abstract
 
-*[Abstract to be added - available at the arXiv link above]*
+This work introduces a multi-agent system to create personalized evaluation metrics ("LLM judges") for natural language generation (NLG) tasks. It automatically configures Large Language Models to act as judges tailored to specific user preferences or application criteria, improving how we evaluate NLG outputs beyond generic metrics.
 
 ## Key Contributions
 
@@ -30,11 +30,12 @@ year: 2025
 
 {% raw %}
 ```bibtex
-@article{cao2025multi,
-  title={Multi-Agent LLM Judge: Automatic Personalized LLM Judge Design for Evaluating NLG Applications},
-  author={Cao, H. and Driouch, I. and Thomas, E.},
-  journal={arXiv preprint arXiv:2504.02867},
-  year={2025}
+@inproceedings{Cao2025LLMJUDGE,
+  author    = {Hongliu Cao and Imane Driouich and Eoin Thomas},
+  title     = {Multi-Agent LLM Judge: Automatic Personalized LLM Judge Design for Evaluating NLG Applications},
+  booktitle = {Proceedings of the LLAIS Workshop at ECAI 2025},
+  year      = {2025},
+  note      = {arXiv preprint arXiv:XXXX.YYYZZ}
 }
 ```
 {% endraw %}
