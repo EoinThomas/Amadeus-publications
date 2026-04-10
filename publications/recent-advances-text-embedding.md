@@ -17,7 +17,7 @@ year: 2024
 
 ## Abstract
 
-This comprehensive survey reviews the latest text embedding techniques and evaluates them on the Massive Text Embedding Benchmark (MTEB). It covers recent developments in transformer-based embeddings, contrastive learning approaches, and other state-of-the-art methods. The review highlights the strengths of top-performing embedding models on various MTEB tasks (such as semantic similarity, clustering, retrieval, etc.), discusses their relative performance, and outlines open challenges (like dealing with negation, domain shifts, and efficiency). It serves as a guide for practitioners to understand which embedding methods work best under different conditions and why.
+Text embedding methods have become increasingly popular in both industrial and academic fields due to their critical role in a variety of natural language processing tasks. The significance of universal text embeddings has been further highlighted with the rise of Large Language Models (LLMs) applications such as Retrieval-Augmented Systems (RAGs). While previous models have attempted to be general-purpose, they often struggle to generalize across tasks and domains. However, recent advancements in training data quantity, quality and diversity; synthetic data generation from LLMs as well as using LLMs as backbones encourage great improvements in pursuing universal text embeddings. In this paper, we provide an overview of the recent advances in universal text embedding models with a focus on the top performing text embeddings on Massive Text Embedding Benchmark (MTEB). Through detailed comparison and analysis, we highlight the key contributions and limitations in this area, and propose potentially inspiring future research directions.
 
 ## Key Contributions
 
