@@ -1,17 +1,5 @@
 # Amadeus Research — Scientific Publications
 
-> **Contact:** [research@amadeus.com](mailto:research@amadeus.com) · **Web:** [amadeus.com/en/innovation/research](https://amadeus.com/en/innovation/research)
-
-## About Amadeus Research
-
-Amadeus Research operates at the intersection of artificial intelligence, operations research, and travel technology, with the mission of improving the traveler experience before, during, and after the trip. The research teams focus on three core pillars: understanding travelers (identifying behavioral patterns and meaningful segments), predicting travelers' actions (anticipating needs and recommending alternatives), and improving operations (optimizing processes to reduce disruptions, environmental impact, and cost). With over 100 patents granted and 20+ research disclosures, the lab actively investigates and promotes generative AI techniques alongside responsible AI approaches for Amadeus and its customers.
-
-The group collaborates with internationally recognized institutions including MIT, INRIA, EURECOM, the 3iA Côte d'Azur institute, and KAUST, and regularly publishes at top-tier venues such as NeurIPS, ICLR, AISTATS, SIGMOD, SIGKDD, ECAI, and IJCNN. Under the direction of Rodrigo Acuna Agost, the team maintains a tech-watch function covering emerging technologies from quantum computing to extended reality, supporting Amadeus' technology leadership across the travel industry.
-
----
-
-## Publications
-
 ### 2025
 
 | Title | Authors | Venue | Link |
@@ -75,22 +63,4 @@ The group collaborates with internationally recognized institutions including MI
 | A Comparative Evaluation of Outlier Detection Algorithms: Experiments and Analyses | Domingues, R.; Filippone, M.; Michiardi, P.; Zouaoui, J. | 2018 | Pattern Recognition | [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0031320317303916) |
 | [Deep Choice Model Using Pointer Networks for Airline Itinerary Prediction](publications/deep-choice-model-pointer-networks.html) | Mottini, A.; Acuna-Agost, R. | 2017 | ACM SIGKDD | [ACM DL](https://dl.acm.org/doi/abs/10.1145/3097983.3098005) |
 
----
-
-## Awards and Recognition
-
-| Year | Award | Topic | Authors |
-|:----:|:------|:------|:--------|
-| 2022 | **Anna Valicek Award** — AGIFORS | Dynamic Offer Generation | Wang, K.; Fiig, T.; Wittman, M. |
-| 2018 | **Best Presentation** — AGIFORS RM | Dynamic Pricing | Wittman, M.D. |
-| 2017 | **Best Innovation Award** — AGIFORS | RL for Airline Revenue Management | Bondoux, N.; Nguyen, A.Q.; Acuna-Agost, R.; Fiig, T. |
-| 2015 | **Best Industrial Application** — ROADEF | Optimization of Ground Airport Ops | Acuna-Agost, R. |
-| 2014 | **Best Overall Presentation** — AGIFORS | Human vs. Machine | Acuna-Agost, R.; Weber, V. |
-
----
-
-## Academic and Industry Partners
-
-MIT · INRIA · EURECOM · 3iA Côte d'Azur · KAUST · UCA · CEREMA · IRD · CNRS
-
----
+> **Contact:** [research@amadeus.com](mailto:research@amadeus.com) · **Web:** [amadeus.com/en/innovation/research](https://amadeus.com/en/innovation/research)
