@@ -9,10 +9,10 @@
 | Modeling Airline Disruptions in Order to Predict Optimization Complexity and Solution Shape | Delahaye, T.; Cao, H. | AGIFORS Airline Ops | [AGIFORS](https://www.agifors.org/ops-2025) |
 | [Unconditionally Calibrated Priors for Beta Mixture Density Networks](publications/unconditionally-calibrated-priors.html) | Lhéritier, A.; Filippone, M. | AISTATS | [PMLR](https://proceedings.mlr.press/v258/lheritier25a.html) |
 | [Variational Inference for Quantum HyperNetworks](publications/variational-inference-quantum-hypernetworks.html) | Nepote, L.; Lhéritier, A.; Bondoux, N.; Kountouris, M.; Filippone, M. | IJCNN Workshop (QCNN) | [arXiv](https://arxiv.org/abs/2506.05888) |
-| Preserving the World Heritage: Post-Earthquake Monitoring Based on Structural Break Testing with Deep Temporal Convolutional Features | Dente, F.; Combey, A.; Lhéritier, A.; Acuna-Agost, R.; Mercerat, E.D. | ECML-PKDD | [Preprint](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_650.pdf) |
+| [Preserving the World Heritage: Post-Earthquake Monitoring Based on Structural Break Testing with Deep Temporal Convolutional Features](publications/post-earthquake-monitoring-heritage-structures.html) | Dente, F.; Combey, A.; Lhéritier, A.; Acuna-Agost, R.; Mercerat, E.D. | ECML-PKDD | [Preprint](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_650.pdf) |
 | GenAI for API | de Antonio, J.; Cao, H.; Tsolaku, A. | Platform Summit | [Nordic APIs](https://nordicapis.com/events/platform-summit-2025/) |
 | [Semantic Adapter for Universal Text Embeddings: Diagnosing and Mitigating Negation Blindness to Enhance Universality](publications/semantic-adapter-universal-text-embeddings.html) | Cao, H. | ECAI | [arXiv](https://arxiv.org/abs/2504.00584) |
-| Holistic Analysis on the Sustainability of Federated Learning Lifecycle in Real-World Industrial Settings | Cao, H. | ECAI | [IOS Press](https://dx.doi.org/10.3233/FAIA413) |
+| [Holistic Analysis on the Sustainability of Federated Learning Lifecycle in Real-World Industrial Settings](publications/holistic-analysis-federated-learning-sustainability.html) | Cao, H. | ECAI | [IOS Press](https://dx.doi.org/10.3233/FAIA413) |
 | [Diverse and Private Synthetic Datasets Generation for RAG Evaluation: A Multi-Agent Framework](publications/diverse-private-synthetic-datasets-rag.html) | Driouch, I.; Cao, H.; Thomas, E. | TRUST-AI @ ECAI | [arXiv](https://arxiv.org/abs/2508.18929) |
 | Choice Modeling with Context Effects: Generalization for Observational Data | Babutsidze, Z.; Rand, W. et al. | J. Behavioral Decision Making | [Wiley](https://doi.org/10.1002/bdm.700) |
 | [Multi-Agent LLM Judge: Automatic Personalized LLM Judge Design for Evaluating NLG Applications](publications/multi-agent-llm-judge.html) | Cao, H.; Driouch, I.; Thomas, E. | LLAIS @ ECAI | [arXiv](https://arxiv.org/abs/2504.02867) |
@@ -38,8 +38,8 @@
 | Title | Authors | Venue | Link |
 |:------|:--------|:------|:-----|
 | Keynote: OR and AI Applications in the Travel Industry | Acuna-Agost, R. | CPAIOR | [CPAIOR](https://sites.google.com/view/cpaior2023/) |
-| Multi-View User Representation Learning for User Matching Without Personal Information | Cao, H.; El Baamrani, I.; Thomas, E. | IJCNN | [IEEE Xplore](https://ieeexplore.ieee.org/document/10191995) |
-| Inclusive Normalization of Face Images to Passport Format | Cao, H.; Do, M.N.; Ravanel, A.; Thomas, E. | IJCNN | [IEEE Xplore](https://ieeexplore.ieee.org/document/10191475) |
+| [Multi-View User Representation Learning for User Matching Without Personal Information](publications/multi-view-user-representation-learning.html) | Cao, H.; El Baamrani, I.; Thomas, E. | IJCNN | [IEEE Xplore](https://ieeexplore.ieee.org/document/10191995) |
+| [Inclusive Normalization of Face Images to Passport Format](publications/inclusive-normalization-face-images.html) | Cao, H.; Do, M.N.; Ravanel, A.; Thomas, E. | IJCNN | [IEEE Xplore](https://ieeexplore.ieee.org/document/10191475) |
 | Dynamic Offer Creation for Airline Ancillaries Using a Markov Chain Choice Model | Wang, K.K.; Wittman, M.D.; Fiig, T. | J. Revenue and Pricing Management | [Springer](https://link.springer.com/article/10.1057/s41272-022-00398-3) |
 | The Impact of the Client Environment on Residential IP Proxies Detection | Chiapponi, E.; Dacier, M.; Thonnard, O. | IMC '23 | [EURECOM](https://www.eurecom.fr/publication/7445/download/sec-publi-7445_1.pdf) |
 
