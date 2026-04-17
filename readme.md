@@ -26,7 +26,6 @@
 | Title | Authors | Venue | Link |
 |:------|:--------|:------|:-----|
 | The Synergy of GenAI and Other Technologies to Enhance the Travel Experience | Acuna-Agost, R. | World AI Cannes Festival | [WAICF](https://worldaicannes.com/) |
-| Uncertainty Quantification in AI-Based Decision Systems | Lhéritier, A. | VIII Franco-Latin-American Forum on Bioethics (UNESCO) | [ResearchGate](https://www.researchgate.net/scientific-contributions/Alix-Lheritier-2076025347) |
 | A First Look at User-Installed Residential Proxies from a Network Operator's Perspective | Chiapponi, E. | 20th CNSM | [Author Page](https://www.elisachiapponi.com/publication/thesis/) |
 | Breaking Down Barriers: Responsible AI Adoption in Industry | Abdou, S.; Cao, H.; Driouich, I.; Thomas, E.; Acuna-Agost, R. | Sophia Summit | [CatalyzeX](https://www.catalyzex.com/author/Hongliu%20Cao) |
 | Enhanced Demand Forecasting by Combining Analytical Models and Machine Learning Models | Nanty, S.; Fiig, T.; Zannier, L.; Defoin-Platel, M. | J. Revenue and Pricing Management | [Springer](https://link.springer.com/article/10.1057/s41272-024-00490-w) |
